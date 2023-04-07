@@ -1,0 +1,94 @@
+article {
+    border-top-style:solid;
+    border-bottom-style:solid;
+    border-color:black;
+    border-width:3px;
+}
+.listHead {
+    border-bottom-style: solid;
+    border-bottom-color:lightgrey;
+    text-align: center;
+    display: flex;
+    padding-left: 10px;
+}
+.lists{
+    border-bottom-style: solid;
+    border-bottom-color:lightgrey;
+    border-width:1px;
+    text-align: center;
+    display: flex;
+    padding-left: 10px;
+}
+b {
+    padding-left: 1%;
+    margin : 20px;
+    
+}
+body {
+    max-width: 100%;
+}
+a {
+    padding-left: 1%;
+    margin : 20px;
+    padding-right:49%;
+}
+.articles {
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-color: black;
+}
+.title {
+    margin : 10px;
+    padding: 10px;
+    padding-bottom: 20px;
+    border-bottom-style: solid;
+    border-bottom-color: lightgrey;
+    border-width: 1px;
+}
+.otherInfo {
+    border-bottom-style: solid;
+    border-bottom-color: lightgrey;
+    border-width: 3px;
+    display:flex;
+}
+.otherInfos {
+    margin: 15px;
+    font-weight: bold;
+}
+.otherInfoss {
+    margin: 15px;
+    margin-left:0px;
+    border-right-style: solid;
+    border-color: lightgrey;
+    border-width:1px;
+    padding-right:20px;
+}
+.bonmun {
+    margin-left:20px;
+    padding-left:0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.buttons{
+    margin: 20px;
+    display:flex;
+    margin-left:40%;
+}
+.buttonList{
+    border-style: solid;
+    border-radius:5px;
+    border-color:black;
+    background-color: black;
+    color: white;
+    height:40px;
+    width: 100px;
+    margin-right:10px;
+}
+.buttonEdit{
+    border-radius:5px;
+    border-style: solid;
+    border-color:black;
+    border-width: 1px;
+    height:40px;
+    width: 100px;
+}
